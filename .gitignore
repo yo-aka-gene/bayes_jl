@@ -25,3 +25,6 @@ Manifest.toml
 
 # Jupyternotebook
 */.ipynb_checkpoints/*
+
+# MacOS
+.DS_Store
